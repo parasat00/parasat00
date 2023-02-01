@@ -6,9 +6,10 @@ I'm a software developer with a strong will to learn, research new technologies 
 <!-- + ⚛️ React -->
 + 💻 HTML, CSS, JS
 
-<hr>
+<!-- <hr>
 
 <p align="center">
   <a href="https://www.google.com">Website</a>
 <!--   Add portfolio address here -->
 </p>
+ -->
