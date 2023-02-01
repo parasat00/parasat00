@@ -10,5 +10,5 @@ I'm a software developer with a strong will to learn, research new technologies 
 
 <p align="center">
   <a href="https://www.google.com">Website</a>
-  [Website](https://www.google.com) //Add portfolio address here
+<!--   Add portfolio address here -->
 </p>
