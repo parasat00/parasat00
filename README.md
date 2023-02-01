@@ -8,6 +8,5 @@ I'm a software developer with a strong will to learn, research new technologies 
 
 <hr>
 
-<div align="center">
   [Website](https://www.google.com) //Add portfolio address here
-</div>
+
