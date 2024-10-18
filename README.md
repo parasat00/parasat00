@@ -2,7 +2,7 @@
 
 ###
 
-<p align="left">My name is Parassat Zhangbyrbay and I'm a Frontend Developer from Kazakhstan.</p>
+<p align="left">My name is Parassat Zhangbyrbay and I'm a Backend Developer from Kazakhstan.</p>
 
 ###
 
