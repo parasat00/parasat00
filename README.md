@@ -10,7 +10,7 @@
 
 ###
 
-<p align="left">✨ Creating bugs since 2019 :)<br>📚 I'm currently learning Vue.js<br>🎯 Goals: get a job as Frontend developer</p>
+<p align="left">✨ Creating bugs since 2019 :)<br>📚 I'm currently learning Yii<br>🎯 Goals: become a middle developer</p>
 
 ###
 
