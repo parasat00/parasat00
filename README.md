@@ -10,7 +10,7 @@
 
 ###
 
-<p align="left">✨ Creating bugs since 2019 :)<br>📚 I'm currently learning Yii and Laravel<br>🎯 Goals: become a middle developer</p>
+<p align="left">✨ Creating bugs since 2019 :)<br>📚 I'm currently learning Yii and Laravel<br>🎯 Goals: become an expert developer</p>
 
 ###
 
